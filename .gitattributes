@@ -1,0 +1,5 @@
+# Preserve bytes used by the course and submission checksums.
+*.csv -text
+*.obs -text
+*.nav -text
+course/rinex2csv.m -text

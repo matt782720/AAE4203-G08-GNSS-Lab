@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+data/
+figures/
+benchmark/*
+!benchmark/G08_benchmark.csv
+matrix_check/
+example_check/
